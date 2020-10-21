@@ -1,5 +1,7 @@
 // require inquirer
 const inquirer = require("inquirer");
+// require utility function
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // array of questions for user
 //the title of my project and sections entitled Description, Table of Contents, Installation, Usage, License, Contributing, Tests, and Questions
@@ -118,7 +120,11 @@ function writeToFile(fileName, data) {
 
 // function to initialize program
 function init() {
-
+    return inquirer
+    .prompt(questions)
+    .then(data => {
+        console.log(generateMarkdown(data));
+    });
 }
 
 // function call to initialize program

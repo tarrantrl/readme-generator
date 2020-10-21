@@ -24,11 +24,11 @@ ${data.usage}
 
 ## Contribution Guidelines
 
-${contributing}
+${data.contributing}
 
 ## Test Instructions
 
-${tests}
+${data.tests}
 
 ## Questions
 
