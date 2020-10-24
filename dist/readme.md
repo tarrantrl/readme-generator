@@ -1,10 +1,10 @@
-# t
+# TitleProject
   
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description
 
-t
+DescriptionProject
 
 ## Table of Contents
 * [Installation](#installation)
@@ -16,24 +16,24 @@ t
 
 ## Installation
 
-t
+InstallProject
 
 ## Usage
 
-t
+UsageProject
 
 ## Contributing
 
-t
+ContributeProject
 
 ## Test Instructions
 
-t
+TestProject
 
 ## License
 
-This project is covered under the MIT license.
+This project is covered under the GPL 3.0 license.
 
 ## Questions
 
-Questions? Contact us [via email](mailto:t). You can also visit us on [GitHub](https://github.com/t).
+Questions? Contact us [via email](mailto:tarrantrl7@gmail.com). You can also visit us on [GitHub](https://github.com/tarrantrl).
